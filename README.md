@@ -5,6 +5,7 @@ A program which converts voice input into C++ code using a custom made SRGS gram
 1- Install Instructions. 
 
 Compile the code using visual studio compiler or any other compiler which supports C# and SAPI libraries.
+Designed to work only with Windows 7 or above.
 
 2-Usage.
 
